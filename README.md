@@ -58,6 +58,8 @@ Prescripto allows doctors to generate digital prescriptions and patients to acce
 - **Server**: Manages business logic and APIs
 - **Database**: Stores users, prescriptions, and records
 
+## 🔗 Project Link
+👉 [Visit Prescripto]: (https://prescripto-frontend-0cs9.onrender.com)
 
 ## ⚙️ Installation & Setup
 
@@ -65,5 +67,9 @@ Prescripto allows doctors to generate digital prescriptions and patients to acce
 ```bash
 git clone https://github.com/vivek-ksinghg/prescripto.git/Prescripto
 
-## 🔗 Project Link
-👉 [Visit Prescripto]: https://prescripto-frontend-0cs9.onrender.com
+Install dependencies
+
+npm install
+
+
+
